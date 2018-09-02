@@ -1,13 +1,13 @@
-#CODE BOOK
-##Getting and Cleaning Data Course Project - COURSERA
+# CODE BOOK
+## Getting and Cleaning Data Course Project - COURSERA
 
 This code book describes the transformation process on the `run_analysis.R`.
 The final result is the space-delimited file `tidy_data_set.txt`.
 
-##Data
+## Data
 Input files: `subject_test`, `subject_train`, `x_test`, `y_test`, `x_train`, `y_train`.
 
-###Variables
+### Variables
 
 __Subject__: identifies the subject of the test [range: 1-30].
 
@@ -32,7 +32,7 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 Only the `mean()` and `std()` measurements are kept.
 
 
-##Transformation
+## Transformation
 1. The path for the extracted zip source file is checked. If not found, the .zip is donwloaded into the working directory and extracted.
 
 2. All the necessary files for the project are read into data frames. 

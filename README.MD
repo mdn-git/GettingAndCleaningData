@@ -1,4 +1,4 @@
-#Getting and Cleaning Data Course Project - COURSERA
+# Getting and Cleaning Data Course Project - COURSERA
 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. 
 The goal is to prepare tidy data that can be used for later analysis.
@@ -10,7 +10,7 @@ The following files are available in this repository:
 * `tidy_data_set.txt`: the final product with the average of the data set, after all the transformation steps.
 
 
-##Data Overview
+## Data Overview
 
 One of the most exciting areas in all of data science right now is wearable computing. 
 Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. 
